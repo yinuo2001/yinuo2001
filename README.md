@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently working in an Agile team to design and build a large-scale back-end database that simulates Ticketmaster<br>🎯 Goals: create fun and user-friendly applications<br>🎲 Fun fact: I am a huge fan of The Sims 4 (hours played: 600+)!</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently working on distributed systems experiments and design!<br>🎯 Goals: create fun and user-friendly applications<br>🎲 Fun fact: I am a huge fan of The Sims 4 (hours played: 600+)!</p>
 
 ###
 
